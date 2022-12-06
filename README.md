@@ -77,6 +77,11 @@ I believe in connecting with folks around the world :earth_asia: and help the so
 
 <h2>< :chart_with_upwards_trend:	GitHub Stats ></h2>
 
-<p align ="center">
-[![Shivang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivangShandilya)](https://github.com/ShivangShandilya/github-readme-stats)
-</p>
+
+ <div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=ShivangShandilya&show_icons=true&theme=radical" />
+   &nbsp
+      &nbsp
+   &nbsp
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangShandilya&theme=radical&layout=compact" />
+</div>
