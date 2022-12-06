@@ -79,9 +79,6 @@ I believe in connecting with folks around the world :earth_asia: and help the so
 
 
  <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=ShivangShandilya&show_icons=true&theme=radical" />
-   &nbsp
-      &nbsp
-   &nbsp
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangShandilya&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=ShivangShandilya&show_icons=true&theme=radical" align= "center"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangShandilya&theme=radical&layout=compact" align="center"/>
 </div>
