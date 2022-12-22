@@ -32,7 +32,15 @@ I believe in connecting with folks around the world :earth_asia: and help the so
 
 </p>
 
+ <h2>< 📔 Blogs ></h2>
+ 
+ Some of the blogs written by me :
+ 
+ - [YAML - What is it ??](https://mydevopsjourney.hashnode.dev/yaml-what-is-it)
+ - [Linux and its Basic Terminal Commands](https://mydevopsjourney.hashnode.dev/linux-and-its-basic-terminal-commands)
+ - [Want to get started with Cloud?](https://mydevopsjourney.hashnode.dev/want-to-get-started-with-cloud)
 
+  
 <h2>< :toolbox: ToolBox></h2>
 
 <p align = "center">
