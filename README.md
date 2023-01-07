@@ -1,6 +1,6 @@
 ### Hi, I'm Shivang 👋
 
-![SS](https://user-images.githubusercontent.com/101946115/205953415-1959ebb3-9516-440a-aa40-d8dd4d8e9df8.png)
+![SS](https://user-images.githubusercontent.com/101946115/211159424-7b773242-fb94-4c6b-8181-6915f04de19c.png)
 
 <h3 align = "center">Welcome to Shivang Shandilya's profile !! :smile::heart:
 </h3>
