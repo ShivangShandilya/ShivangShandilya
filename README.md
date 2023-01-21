@@ -39,6 +39,10 @@ I believe in connecting with folks around the world :earth_asia: and help the so
  - [YAML - What is it ??](https://mydevopsjourney.hashnode.dev/yaml-what-is-it)
  - [Linux and its Basic Terminal Commands](https://mydevopsjourney.hashnode.dev/linux-and-its-basic-terminal-commands)
  - [Want to get started with Cloud?](https://mydevopsjourney.hashnode.dev/want-to-get-started-with-cloud)
+  
+  AWS BLOGS :
+ - [Introduction to Amazon Web Services](https://allaboutaws.hashnode.dev/introduction-to-amazon-web-services)
+ - [What is Amazon EC2 ??](https://allaboutaws.hashnode.dev/what-is-amazon-ec2)
 
   
 <h2>< :toolbox: ToolBox></h2>
