@@ -89,8 +89,5 @@ I believe in connecting with folks around the world :earth_asia: and help the so
 
 <h2>< :chart_with_upwards_trend:	GitHub Stats ></h2>
 
- 
- <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=ShivangShandilya&show_icons=true&theme=radical">
-</p>
+[![Shivang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShivangShandilya&theme=dracula)](https://github.com/ShivangShandilya/github-readme-activity-graph)
 
