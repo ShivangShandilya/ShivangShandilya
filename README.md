@@ -6,7 +6,7 @@
 </h3>
 
 <h2>< :technologist:	About Me ></h2>
-My name is Shivang Shandilya and I am currently pursuing Bachelor's in Information Technology from India :octocat:. I am currently engrossed in learning DevOps and contributing to Open - Source  :computer:.
+My name is Shivang Shandilya and I am currently pursuing Bachelor's in Information Technology from India :octocat:.I am currently engrossed in learning DevOps and contributing to Open - Source  :computer:.
 I believe in connecting with folks around the world :earth_asia: and help the society in any way I can.
 
 <p align = "center">
