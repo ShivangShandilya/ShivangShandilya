@@ -36,9 +36,9 @@ I believe in connecting with folks around the world :earth_asia: and help the so
  
  Check out my latest Blogs :
  
+ - [Streamlining Your Development Process with Continuous Delivery on Napptive](https://mydevopsjourney.hashnode.dev/streamlining-your-development-process-with-continuous-delivery-on-napptive)
+ - [My Tech Journey 💻: Overcoming Obstacles and Achieving Goals 🏆](https://mydevopsjourney.hashnode.dev/my-tech-journey-overcoming-obstacles-and-achieving-goals)
  - [YAML - What is it ??](https://mydevopsjourney.hashnode.dev/yaml-what-is-it)
- - [Linux and its Basic Terminal Commands](https://mydevopsjourney.hashnode.dev/linux-and-its-basic-terminal-commands)
- - [Want to get started with Cloud?](https://mydevopsjourney.hashnode.dev/want-to-get-started-with-cloud)
  
   AWS BLOGS :
  - [Introduction to Amazon Web Services](https://allaboutaws.hashnode.dev/introduction-to-amazon-web-services)
