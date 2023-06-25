@@ -1,4 +1,4 @@
-name: Latest DEVto Articles
+name: Latest blog Posts
 on:
   schedule:
     - cron: '0 * * * *'
