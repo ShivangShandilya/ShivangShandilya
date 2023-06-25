@@ -23,18 +23,10 @@
  </a>
 </p>
 
-## Latest Blog Posts:
+## Latest Blog Posts 👇:
  
- Check out my latest Blogs :
- 
- - [Streamlining Your Development Process with Continuous Delivery on Napptive](https://mydevopsjourney.hashnode.dev/streamlining-your-development-process-with-continuous-delivery-on-napptive)
- - [My Tech Journey 💻: Overcoming Obstacles and Achieving Goals 🏆](https://mydevopsjourney.hashnode.dev/my-tech-journey-overcoming-obstacles-and-achieving-goals)
- - [YAML - What is it ??](https://mydevopsjourney.hashnode.dev/yaml-what-is-it)
- 
-  AWS BLOGS :
- - [Introduction to Amazon Web Services](https://allaboutaws.hashnode.dev/introduction-to-amazon-web-services)
- - [What is Amazon EC2 ??](https://allaboutaws.hashnode.dev/what-is-amazon-ec2)
-
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
   
 <h2>< :toolbox: ToolBox></h2>
