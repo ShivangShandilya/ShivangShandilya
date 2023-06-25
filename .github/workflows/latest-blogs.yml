@@ -10,15 +10,11 @@ jobs:
     name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
-
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          USERNAME: 'KubeMan' # Hashnode Username
-          BLOG_URL: 'https://mydevopsjourney.hashnode.dev/' # Blog URL
-          COUNT: 4 # MAX Visisble
-          STYLE: "blog-grid"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "BLOGPOSTS"
+          feed_list: "https://mydevopsjourney.hashnode.dev/rss.xml"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
+          commit_message: "recent posts section updated"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
