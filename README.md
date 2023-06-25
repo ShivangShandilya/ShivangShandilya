@@ -25,10 +25,9 @@
 
 ## Latest Blog Posts 👇:
  
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
-  
 <h2>< :toolbox: ToolBox></h2>
 
 <p align="center">
