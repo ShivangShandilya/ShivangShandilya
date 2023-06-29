@@ -26,11 +26,11 @@
 ## Latest Blog Posts 👇:
  
 <!-- BLOGPOSTS:START -->
- - 💫 [Building a GO CRUD Rest API from scratch](https://mydevopsjourney.hashnode.dev/building-a-go-crud-rest-api-from-scratch)
+ - 💫 [Unveiling the Agile Pipeline: My CI/CD Project Journey](https://mydevopsjourney.hashnode.dev/unveiling-the-agile-pipeline-my-cicd-project-journey)
+ - 💯 [Building a GO CRUD Rest API from scratch](https://mydevopsjourney.hashnode.dev/building-a-go-crud-rest-api-from-scratch)
  - 💯 [My Journey of DevRel Cohort at Keploy](https://mydevopsjourney.hashnode.dev/my-journey-of-devrel-cohort-at-keploy)
- - 💯 [Armada : Multi-Kubernetes Cluster Batch Job Meta-Scheduler](https://mydevopsjourney.hashnode.dev/armada-multi-kubernetes-cluster-batch-job-meta-scheduler)
- - 🚀 [My Tech Journey 💻: Overcoming Obstacles and Achieving Goals 🏆](https://mydevopsjourney.hashnode.dev/my-tech-journey-overcoming-obstacles-and-achieving-goals)
- - 💫 [Streamlining Your Development Process with Continuous Delivery on Napptive](https://mydevopsjourney.hashnode.dev/streamlining-your-development-process-with-continuous-delivery-on-napptive)<!-- BLOGPOSTS:END -->
+ - 🚀 [Armada : Multi-Kubernetes Cluster Batch Job Meta-Scheduler](https://mydevopsjourney.hashnode.dev/armada-multi-kubernetes-cluster-batch-job-meta-scheduler)
+ - 💫 [My Tech Journey 💻: Overcoming Obstacles and Achieving Goals 🏆](https://mydevopsjourney.hashnode.dev/my-tech-journey-overcoming-obstacles-and-achieving-goals)<!-- BLOGPOSTS:END -->
 
 <h2>< :toolbox: ToolBox></h2>
 
