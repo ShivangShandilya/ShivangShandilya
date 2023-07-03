@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-## Who am I?
+## Who am I? 
 
 - 🥑 DevOps and Open Source Advocate 
 -  <img src = "https://github.com/ShivangShandilya/ShivangShandilya/assets/101946115/0034e894-6396-4b37-ad07-624469536c73" height = 20 width = 20 /> Google Summer Of Code'23 Mentee under [CNCF](https://www.cncf.io/)
