@@ -11,7 +11,7 @@
 
 - 🥑 DevOps and Open Source Advocate 
 -  <img src = "https://github.com/ShivangShandilya/ShivangShandilya/assets/101946115/0034e894-6396-4b37-ad07-624469536c73" height = 20 width = 20 /> Google Summer Of Code'23 Mentee under [CNCF](https://www.cncf.io/)
-- 👨[CNCF New Delhi](https://community.cncf.io/new-delhi/) Co-Organizer
+- 👨[CNCF New Delhi](https://community.cncf.io/new-delhi/) Co-Organizer 
 
 
 <p align="center">
