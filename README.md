@@ -24,7 +24,7 @@
 </p>
 
 ## Latest Blog Posts 👇:
- 
+  
 <!-- BLOGPOSTS:START -->
  - 💫 [Unveiling the Agile Pipeline: My CI/CD Project Journey](https://mydevopsjourney.hashnode.dev/unveiling-the-agile-pipeline-my-cicd-project-journey)
  - 💯 [Building a GO CRUD Rest API from scratch](https://mydevopsjourney.hashnode.dev/building-a-go-crud-rest-api-from-scratch)
