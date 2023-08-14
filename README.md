@@ -21,6 +21,9 @@
  <a href = "https://twitter.com/shivv_twt" >
   <img src = "https://skillicons.dev/icons?i=twitter" />
  </a>
+ <a href = "https://www.youtube.com/@ShivangShandilyaa/videos" >
+  <img src = "https://skillicons.dev/icons?i=youtube" />
+ </a>
 </p>
 
 ## Latest Blog Posts 👇:
