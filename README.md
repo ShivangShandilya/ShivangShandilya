@@ -36,13 +36,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,githubactions,go" />
   </a>
 </p>
- 
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,githubactions,go," />
-  </a>
-</p>
- 
