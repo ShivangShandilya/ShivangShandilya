@@ -21,9 +21,6 @@
  <a href = "https://twitter.com/shivv_twt" >
   <img src = "https://skillicons.dev/icons?i=twitter" />
  </a>
- <a href = "https://www.youtube.com/@ShivangShandilyaa/videos" >
-  <img src = "https://skillicons.dev/icons?i=youtube" />
- </a>
 </p>
 
 ## Latest Blog Posts 👇:
@@ -39,13 +36,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,aws,git,docker,kubernetes,jenkins" />
+    <img src="https://skillicons.dev/icons?i=linux,aws,git,docker,kubernetes" />
   </a>
 </p>
  
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,react,next,firebase" />
+    <img src="https://skillicons.dev/icons?i=jenkins,githubactions,go," />
   </a>
 </p>
  
