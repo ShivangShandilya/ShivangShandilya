@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,aws,git,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" />
   </a>
 </p>
  
