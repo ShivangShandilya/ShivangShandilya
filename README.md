@@ -26,7 +26,7 @@
 ## Latest Blog Posts 👇:
   
 <!-- BLOGPOSTS:START -->
- - 💫 [Everything you need to know about Docker - I &lpar;Beginner&rpar;](https://mydevopsjourney.hashnode.dev/everything-you-need-to-know-about-docker-i-beginner)
+ - 💫 [Everything you need to know about Docker as a Beginner](https://mydevopsjourney.hashnode.dev/everything-you-need-to-know-about-docker-as-a-beginner)
  - 💯 [Unveiling the Agile Pipeline: My CI/CD Project Journey](https://mydevopsjourney.hashnode.dev/unveiling-the-agile-pipeline-my-cicd-project-journey)
  - 💯 [Building a GO CRUD Rest API from scratch](https://mydevopsjourney.hashnode.dev/building-a-go-crud-rest-api-from-scratch)
  - 🚀 [My Journey of DevRel Cohort at Keploy](https://mydevopsjourney.hashnode.dev/my-journey-of-devrel-cohort-at-keploy)
