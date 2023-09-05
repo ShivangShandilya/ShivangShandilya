@@ -1,7 +1,7 @@
 <p align = "center">
 <img src = "https://github.com/ShivangShandilya/ShivangShandilya/assets/101946115/443dc3f6-6b8f-45f7-bed7-2878aee9acda" width = 100%/>
 </p> 
-   
+    
 <h3 align="center">  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to Shivang Shandilya's profile  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
