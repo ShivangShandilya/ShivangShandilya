@@ -15,7 +15,7 @@
  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivang-shandilya/">
+  <a href="https://www.linkedin.com/in/shivang-shandilya/"> 
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
  <a href = "https://twitter.com/shivv_twt" >
