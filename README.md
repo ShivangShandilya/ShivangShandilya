@@ -26,11 +26,11 @@
 ## Latest Blog Posts 👇:
   
 <!-- BLOGPOSTS:START -->
- - 💫 [Unlocking the mysteries of Kubernetes Cluster Architecture](https://mydevopsjourney.hashnode.dev/unlocking-the-mysteries-of-kubernetes-cluster-architecture)
+ - 💫 [Everything you need to know about Helm as a Beginner](https://mydevopsjourney.hashnode.dev/everything-you-need-to-know-about-helm-as-a-beginner)
+ - 💯 [Unlocking the mysteries of Kubernetes Cluster Architecture](https://mydevopsjourney.hashnode.dev/unlocking-the-mysteries-of-kubernetes-cluster-architecture)
  - 💯 [Everything you need to know about Docker as a Beginner](https://mydevopsjourney.hashnode.dev/everything-you-need-to-know-about-docker-as-a-beginner)
- - 💯 [Unveiling the Agile Pipeline: My CI/CD Project Journey](https://mydevopsjourney.hashnode.dev/unveiling-the-agile-pipeline-my-cicd-project-journey)
- - 🚀 [Building a GO CRUD Rest API from scratch](https://mydevopsjourney.hashnode.dev/building-a-go-crud-rest-api-from-scratch)
- - 💫 [My Journey of DevRel Cohort at Keploy](https://mydevopsjourney.hashnode.dev/my-journey-of-devrel-cohort-at-keploy)<!-- BLOGPOSTS:END -->
+ - 🚀 [Unveiling the Agile Pipeline: My CI/CD Project Journey](https://mydevopsjourney.hashnode.dev/unveiling-the-agile-pipeline-my-cicd-project-journey)
+ - 💫 [Building a GO CRUD Rest API from scratch](https://mydevopsjourney.hashnode.dev/building-a-go-crud-rest-api-from-scratch)<!-- BLOGPOSTS:END -->
 
 <h2>< :toolbox: ToolBox></h2>
 
