@@ -26,11 +26,11 @@
 ## Latest Blog Posts 👇:
   
 <!-- BLOGPOSTS:START -->
- - 💫 [Hosting a static website on Amazon Web Services S3](https://mydevopsjourney.hashnode.dev/hosting-a-static-website-on-amazon-web-services-s3)
+ - 💫 [From Code to Container: AWS ECR and ECS for Absolute Beginners](https://mydevopsjourney.hashnode.dev/from-code-to-container-aws-ecr-and-ecs-for-absolute-beginners)
+ - 💯 [Hosting a static website on Amazon Web Services S3](https://mydevopsjourney.hashnode.dev/hosting-a-static-website-on-amazon-web-services-s3)
  - 💯 [Everything you need to know about Helm as a Beginner](https://mydevopsjourney.hashnode.dev/everything-you-need-to-know-about-helm-as-a-beginner)
- - 💯 [Unlocking the mysteries of Kubernetes Cluster Architecture](https://mydevopsjourney.hashnode.dev/unlocking-the-mysteries-of-kubernetes-cluster-architecture)
- - 🚀 [Everything you need to know about Docker as a Beginner](https://mydevopsjourney.hashnode.dev/everything-you-need-to-know-about-docker-as-a-beginner)
- - 💫 [Unveiling the Agile Pipeline: My CI/CD Project Journey](https://mydevopsjourney.hashnode.dev/unveiling-the-agile-pipeline-my-cicd-project-journey)<!-- BLOGPOSTS:END -->
+ - 🚀 [Unlocking the mysteries of Kubernetes Cluster Architecture](https://mydevopsjourney.hashnode.dev/unlocking-the-mysteries-of-kubernetes-cluster-architecture)
+ - 💫 [Everything you need to know about Docker as a Beginner](https://mydevopsjourney.hashnode.dev/everything-you-need-to-know-about-docker-as-a-beginner)<!-- BLOGPOSTS:END -->
 
 <h2>< :toolbox: ToolBox></h2>
 
